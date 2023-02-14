@@ -1,9 +1,9 @@
 # Course Assignment: Development Platforms
 
 
-**GitHub:** [Repo](https://github.com/siljeangelvik/development_platforms_ca)  
-**Host:** [Netlify](https://developmentplatforms.netlify.app/)  
-**Report:** [GitHub](https://github.com/siljeangelvik/development_platforms_ca/blob/main/notes.md)
+**Website Hosting:** [Netlify](https://developmentplatforms.netlify.app/)  
+**Project Report:** [GitHub Markdown](https://github.com/siljeangelvik/development_platforms_ca/blob/main/notes.md)  
+**GitHub Project Repo:** [Development Platforms ca](https://github.com/siljeangelvik/development_platforms_ca)
 
 
 ## Case  
