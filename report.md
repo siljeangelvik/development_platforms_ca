@@ -2,7 +2,7 @@
 
 
 **Website Hosting:** [Netlify](https://developmentplatforms.netlify.app/)  
-**Project Report:** [GitHub Markdown](https://github.com/siljeangelvik/development_platforms_ca/blob/main/notes.md)    
+**Project Report:** [GitHub Markdown](https://github.com/siljeangelvik/development_platforms_ca/blob/main/report.md)    
 **GitHub Project Repo:** [Development Platforms ca](https://github.com/siljeangelvik/development_platforms_ca)  
 **Repository Fork:** [development-platforms](https://github.com/NoroffFEU/development-platforms)  
 **Report Format Template:** [GitHub Flavoured Markdown](https://github.com/siljeangelvik/development_platforms_ca/blob/main/template.md)
