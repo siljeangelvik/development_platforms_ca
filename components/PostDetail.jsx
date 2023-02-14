@@ -76,6 +76,7 @@ const PostDetail = ({post}) => {
                     return getContentFragment(index, children, typeObj, typeObj.type)
                 })}
             </div>
+            <p className="inline align-middle text-gray-700 ml-2 text-lg">{post.categories.name}</p>
         </div>
     )
 }
