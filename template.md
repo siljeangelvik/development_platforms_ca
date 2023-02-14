@@ -6,12 +6,12 @@
 **URL:** [Report Format Template](https://raw.githubusercontent.com/NoroffFEU/development-platforms/main/example-case-study.md)
 
 ---
-**Title:** Karen's Recipes Case Study  
-**Keywords:** development platforms, blog project, recipes     
-**Tags:** development platforms, blog project, recipes    
-**Sidebar:** development-platforms  
-**Permalink:** [Karen's Recipes](https://developmentplatforms.netlify.app/)  
-**Folder:** development-platforms
+Title: Karen's Recipes Case Study  
+Keywords: development platforms, blog project, recipes     
+Tags: development platforms, blog project, recipes    
+Sidebar: development-platforms  
+Permalink: [Karen's Recipes](https://developmentplatforms.netlify.app/)  
+Folder: development-platforms
 ---
 
 ## Introduction
