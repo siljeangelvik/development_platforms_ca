@@ -5,15 +5,7 @@
 **Project Report:** [GitHub Markdown](https://github.com/siljeangelvik/development_platforms_ca/blob/main/report.md)    
 **GitHub Project Repo:** [Development Platforms ca](https://github.com/siljeangelvik/development_platforms_ca)  
 **Repository Fork:** [development-platforms](https://github.com/NoroffFEU/development-platforms)  
-**Report Format Template:** [GitHub Flavoured Markdown](https://github.com/siljeangelvik/development_platforms_ca/blob/main/template.md)
-
-## Case  
-Karen Doe profile  
-Karen wants a website where she can easily upload and manage recipes.
-
-### Goal  
-Create a website where Karen is free to easily upload her recipes and manage them.
-Easy and cheap hosting.  
+**Report Format Template:** [GitHub Flavoured Markdown](https://github.com/siljeangelvik/development_platforms_ca/blob/main/template.md)  
 
 
 ## Introduction  
@@ -21,9 +13,12 @@ Because Karen wanted to publish and share her recipes easily, we were thinking s
 We wanted to make it easy and intuitive for her to add these recipes, and manage her own website, but at the same time, WordPress was more of a monolithic CMS, which we didn't want.
 After some researching on different development tools and platforms, we found that GraphCMS/Hygraph was a solid alternative to WordPress, as well as replacing the back end with NextJS.
 
+
+### Our approach:
+Because Karen wanted to publish and share her recipes easily, we were thinking something like WordPress would be a good solution. We wanted to make it easy and intuitive for her to add these recipes, and manage her own website, but at the same time, WordPress was more of a monolithic CMS, which we didn't want. After some research on different development tools and platforms, we found that GraphCMS/Hygraph was a solid alternative to WordPress, as well as replacing the back end with NextJS.
 We would build it with the newest technologies such as React JS, NextJS, Tailwind CSS, GraphQL and GraphCMS.
 
-### Why?
+## Why?
 * We wanted easy production builds
 * We wanted server-side rendering
 * Static exporting options
@@ -31,17 +26,42 @@ We would build it with the newest technologies such as React JS, NextJS, Tailwin
 * GraphQL replaced both SQL and NoSQL but still keeping their respective benefits
 * Read more below on _Pros_
 
-### Pros vs Cons
-**Pros**
+
+## Comparison
+### Nextjs vs Svelte
+
+### GraphQL vs REST
+GraphQL has many advantages over REST.
+GraphQL is faster than REST because you can easily pick the fields you have to query. GraphQL provides a better learning curve as compared to REST.
+![REST vs GraphQL](./public/rest_graphql.png)
+
+### GraphCMS vs WordPress
+Next JS is specifically designed for server-side rendering and offers a range of features to make it easy for developers to build server-rendered React applications. Svelte also offers support for server-side rendering; however, compared to Next JS, it requires more setup and configuration.
+
+
+## Strengths vs Weaknesses
+**Strengths**
 * Easy to use for both the client and the developer
 * The GraphQL syntax is not so different from JSON
 * Hygraph acts as both a Headless CMS and a powerful GraphQL database
 * Delivers performance and scalability with the available features
 * Offers a free plan
 
-**Cons**
+**Weaknesses**
 * Cost money for bigger or more projects
 * We have yet to figure out more cons...
+
+
+## Features
+**React** makes it easier to create dynamic web applications because it requires less coding and offers more functionality, as opposed to JavaScript, where coding often gets complex very quickly. Improved performance: React uses Virtual DOM, thereby creating web applications faster.
+
+**Nextjs** gives developers the ability to do things like server-side rendering, which means the server reads through code and tells the browser what to display on the page. Server-side rendering creates faster, more versatile web applications.
+
+**GraphQL** simplifies the task of aggregating data from multiple sources or APIs and then resolving the data to the client in a single API call.
+
+**Hygraph** features content modeling where developers and content managers can easily set up content structures, or models, create custom workflows, and connect models to speed up creation.
+
+![Features Hygraph](./public/features_hygraph.png)
 
 
 ## Journey
@@ -69,7 +89,7 @@ The models we created was Author, Category, Comment and Post.
 **! Note:** _Summary with more images or video will come..._
 
 
-## Resources
+## References
 **Docs:** [ReactJS](https://reactjs.org/)  
 **Docs:** [NextJS](https://nextjs.org/)  
 **Docs:** [TailwindCSS](https://tailwindcss.com/)  
