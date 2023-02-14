@@ -44,13 +44,40 @@ We would build it with the newest technologies such as React JS, NextJS, Tailwin
 
 
 ## Journey
+We started making an account for the **GraphCMS**, when we were logged in,   
+we got the option of choosing a schema to work with or start blank.   
+We went for starting on a new blank project.
+
+#### We added some details to the new project:
+**Project Name:** karen_blog  
+**Project Description:** A virtual recipe book delivered by Karen   
+**Region:** Germany (Frankfurt)
+
+**! Note:** _Hygraph allows you to select which region to host your content in._  
+_All content will be served from a globally distributed CDN_.
+<img src="./public/developmentplatforms_graphcms-1.png" data-canonical-src="./public/developmentplatforms_graphcms-1.png" width="600" height="auto" />
+
+GraphCMS has 4 different plan options: community, professional, scale and enterprise.  
+In this case we went for the community version, which is the "free forever" option.
+<img src="./public/developmentplatforms_graphcms-2.png" data-canonical-src="./public/developmentplatforms_graphcms-2.png" width="600" height="auto" />
+
+After entering the dashboard, the first this we did was go to schema to make models.  
+The models we created was Author, Category, Comment and Post. 
+<img src="./public/developmentplatforms_graphcms-3.png" data-canonical-src="./public/developmentplatforms_graphcms-3.png" width="600" height="auto" />
+
+**! Note:** _Summary with more images or video will come..._
 
 
-
-## Resources  
-
-**Video:** [Tutorial](https://www.youtube.com/watch?app=desktop&v=HYv55DhgTuA)   
-**Gist:** [Tutorial](https://gist.github.com/adrianhajdin/2b2e8509a48229baf9bb9b53d4a31c91)  
+## Resources
+**Docs:** [ReactJS](https://reactjs.org/)  
+**Docs:** [NextJS](https://nextjs.org/)  
+**Docs:** [TailwindCSS](https://tailwindcss.com/)  
+**Docs:** [GraphQL](https://graphql.org/)  
+**Docs:** [GraphCMS / Hygraph](https://hygraph.com/)  
+**Video:** [Build and Deploy THE BEST Modern Blog App with React](https://www.youtube.com/watch?app=desktop&v=HYv55DhgTuA)   
+**Gist:** [Tutorial Featured Post Card](https://gist.github.com/adrianhajdin/2b2e8509a48229baf9bb9b53d4a31c91)  
+**Gist:** [Image Resize in GitHub Markdown](https://gist.github.com/uupaa/f77d2bcf4dc7a294d109)  
 **Images:** [Pixabay](https://pixabay.com/no/photos/search/chicken%20fried%20rice/?manual_search=1)  
-
+**GitHub:** [Add local repo to GitHub using GitHub CLI](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github)  
+**Recipe:** [Chicken Fried Rice](https://www.delish.com/cooking/recipe-ideas/a25635966/chicken-fried-rice-recipe/) 
 
