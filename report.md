@@ -2,7 +2,7 @@
 
 
 **Website Hosting:** [Netlify](https://developmentplatforms.netlify.app/)  
-**Project Report:** [GitHub Markdown](https://github.com/siljeangelvik/development_platforms_ca/blob/main/notes.md)  
+**Project Report:** [GitHub Markdown](https://github.com/siljeangelvik/development_platforms_ca/blob/main/notes.md)    
 **GitHub Project Repo:** [Development Platforms ca](https://github.com/siljeangelvik/development_platforms_ca)
 
 
@@ -79,5 +79,4 @@ The models we created was Author, Category, Comment and Post.
 **Gist:** [Image Resize in GitHub Markdown](https://gist.github.com/uupaa/f77d2bcf4dc7a294d109)  
 **Images:** [Pixabay](https://pixabay.com/no/photos/search/chicken%20fried%20rice/?manual_search=1)  
 **GitHub:** [Add local repo to GitHub using GitHub CLI](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github)  
-**Recipe:** [Chicken Fried Rice](https://www.delish.com/cooking/recipe-ideas/a25635966/chicken-fried-rice-recipe/) 
-
+**Recipe:** [Chicken Fried Rice](https://www.delish.com/cooking/recipe-ideas/a25635966/chicken-fried-rice-recipe/)  
