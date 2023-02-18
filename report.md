@@ -89,6 +89,11 @@ The models we created was Author, Category, Comment and Post.
 **! Note:** _Summary with more images or video will come..._
 
 
+
+The video shows where to create the models using Hypgraph, and where to create the website content.
+[<img src="./public/developmentplatforms_graphcms-3.png" width="100%">](https://www.youtube.com/watch?v=7hnxVRcmN94)
+
+
 ## References
 **Docs:** [ReactJS](https://reactjs.org/)  
 **Docs:** [NextJS](https://nextjs.org/)  
