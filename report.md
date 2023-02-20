@@ -1,5 +1,4 @@
 # Course Assignment: Development Platforms
-
 **Website Hosting:** [Netlify](https://developmentplatforms.netlify.app/)  
 **Project Report:** [GitHub Markdown](https://github.com/siljeangelvik/development_platforms_ca/blob/main/report.md)    
 **GitHub Project Repo:** [Development Platforms ca](https://github.com/siljeangelvik/development_platforms_ca)  
@@ -161,34 +160,18 @@ The models we created was Author, Category, Comment and Post.
 
 **! Note:** _Summary with more images or video will come..._
 
-
-
 ## Summary
-
-Using **Hygraph(GraphCMS)** gives the developer the ease of not having to hard-code their own back-end.  
-On top of that, WordPress is a great tool, if you don't want to code your own website or application.   
-As developers, we wanted to have full control of our product in case Karen run into some issues and needed help.  
-We are happy that both us developers can have an easier time with the product build, and Karen can write her blog posts  
-endless times a day if she wanted to, without having to contact us those endless times a day.  
-
-WordPress has been and still is the most popular choice for content management systems,   
-but we believe that decoupled CMS solutions will continue to grow in popularity, and as  
-far as we're concerned, as developers, WordPress will not support us improving our coding skills.
-
 As content management systems (CMS) become more and more popular, developers have to decide which CMS to use for their projects.   
 WordPress has been the go-to option for many projects due to its ease of use, powerful features and flexibility.   
-However, as technology advances, there are now other options available that can provide a better development experience
+However, as technology advances, there are now other options available that can provide a better development experience.
 
+**WordPress** is still the most popular CMS solution, but it is too monolithic, preventing it from being   
+flexible enough to meet the needs of today's users. And as developers, as far as we're concerned,   
+WordPress will not give us the needed support for improving our coding skills.
 
-WordPress is often seen as too monolithic, making it difficult to customize and adapt to user needs.   
-This can lead to slower development times and an inability to create the exact user experience desired.   
-Fortunately, there are now more flexible CMSs available that allow for better customization and scalability.   
-By using these technologies, developers can create a 
-
-WordPress is too monolithic, preventing it from being flexible enough to meet the needs of today's users.  
-
-* Hygraph(GraphCMS) was a great option for our project because it provided a solid, intuitive platform. It allowed us to develop the website quickly and easily, and gave Karen the opportunity to add her recipes with ease. Additionally, Hygraph's scalability features enabled us to focus on creating an efficient and reliable backend that could handle
-* We were able to use Hygraph's scalability features to further refine the website. This allowed us to create a reliable backend that could handle various loads and efficiently manage Karen's recipes. We also utilized Hygraph's intuitive user interface which enabled us to quickly develop the website with minimal effort. The powerful features of Hygraph made it easy for
+**Hygraph(GraphCMS)** gives the developer the ease of not having to hard-code their own back-end.   
+Hygraph was a great option for our project because it provided a solid, intuitive platform. It allowed   
+us to develop the website quickly and easily, and gave Karen the opportunity to add her recipes with ease.
 
 Using **GraphQL** makes it easy to exchange data at a single endpoint. 
 In Hygraph, the `models` made in the `schema`-section could be compared to the `tables` in a database, and the `fields` would be the `columns`.  
@@ -201,7 +184,6 @@ as well as super flexible! And don’t forget that Karen can add her recipes whe
 The video shows where to create the models using Hypgraph, and where to create the website content.
 [<img src="./public/developmentplatforms_graphcms-3.png" width="100%">](https://www.youtube.com/watch?v=7hnxVRcmN94)
 **Source:** [_Video Clip Showcasing Hygraph_](https://www.youtube.com/watch?v=7hnxVRcmN94)
-
 
 ## References
 **Wikipedia:** [Nextjs](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjQ89zihaT9AhXitYsKHW6TAPkQmhN6BAhiEAI&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNext.js&usg=AOvVaw0B-Px8Rh7KearsjWzEctWw)  
