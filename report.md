@@ -1,4 +1,3 @@
-
 ---
 Title: Karen's Recipes Case Study  
 Keywords: development, platforms, blog, cms, QL, API    
