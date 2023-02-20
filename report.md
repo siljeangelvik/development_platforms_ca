@@ -96,6 +96,29 @@ and ecommerce. they added proper docs and opened a GraphQL community.
 added commenting-feature, adding components, added new extensions   
 for marketplace and launched hygraph.design.
 
+## Features
+**React** makes it easier to create dynamic web applications because it requires less coding and offers more functionality, as opposed to JavaScript, where coding often gets complex very quickly. Improved performance: React uses Virtual DOM, thereby creating web applications faster.
+
+**Nextjs** gives developers the ability to do things like server-side rendering, which means the server reads through code and tells the browser what to display on the page. Server-side rendering creates faster, more versatile web applications.
+
+**GraphQL** simplifies the task of aggregating data from multiple sources or APIs and then resolving the data to the client in a single API call.
+
+**Hygraph** features content modeling where developers and content managers can easily set up content structures, or models, create custom workflows, and connect models to speed up creation.
+
+![Features Hygraph](./public/features_hygraph.png)
+* **Note:** Image shows only Hygraph features.
+
+## Strengths
+* Easy to use for both the client and the developer
+* The GraphQL syntax is not so different from JSON
+* Hygraph acts as both a Headless CMS and a powerful GraphQL database
+* Delivers performance and scalability with the available features
+* Offers a free plan
+
+## Weaknesses
+* Cost money for bigger or more projects
+* We have yet to figure out more cons...
+
 ## Comparison
 ### Nextjs vs Svelte
 NextJS enables us to create full-stack web applications by extending the latest   
@@ -113,32 +136,6 @@ Next JS is specifically designed for server-side rendering and offers
 a range of features to make it easy for developers to build server-rendered   
 React applications. Svelte also offers support for server-side rendering;   
 however, compared to Next JS, it requires more setup and configuration.
-
-## Strengths vs Weaknesses
-**Strengths**
-* Easy to use for both the client and the developer
-* The GraphQL syntax is not so different from JSON
-* Hygraph acts as both a Headless CMS and a powerful GraphQL database
-* Delivers performance and scalability with the available features
-* Offers a free plan
-
-**Weaknesses**
-* Cost money for bigger or more projects
-* We have yet to figure out more cons...
-
-
-## Features
-**React** makes it easier to create dynamic web applications because it requires less coding and offers more functionality, as opposed to JavaScript, where coding often gets complex very quickly. Improved performance: React uses Virtual DOM, thereby creating web applications faster.
-
-**Nextjs** gives developers the ability to do things like server-side rendering, which means the server reads through code and tells the browser what to display on the page. Server-side rendering creates faster, more versatile web applications.
-
-**GraphQL** simplifies the task of aggregating data from multiple sources or APIs and then resolving the data to the client in a single API call.
-
-**Hygraph** features content modeling where developers and content managers can easily set up content structures, or models, create custom workflows, and connect models to speed up creation.
-
-![Features Hygraph](./public/features_hygraph.png)
-* **Note:** Image shows only Hygraph features.
-
 
 ## Journey
 We started making an account for the **GraphCMS**, when we were logged in,   
