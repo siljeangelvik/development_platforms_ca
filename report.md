@@ -7,12 +7,6 @@ Permalink: https://github.com/siljeangelvik/karens-recipes-case-study
 Folder: karens-recipes-case-study
 ---
 
-**Website Hosting:** [Netlify](https://developmentplatforms.netlify.app/)  
-**Project Report:** [GitHub Markdown](https://github.com/siljeangelvik/development_platforms_ca/blob/main/report.md)    
-**GitHub Project Repo:** [Development Platforms CA](https://github.com/siljeangelvik/development_platforms_ca)  
-**Repository Fork:** [development-platforms](https://github.com/NoroffFEU/development-platforms)  
-**Report Format Template:** [GitHub Flavoured Markdown](https://github.com/siljeangelvik/development_platforms_ca/blob/main/template.md)
-
 ## Introduction
 Karen is looking to write and share her recipes with family, friends and other cooking enthusiasts.   
 The website should be easy to upload recipes, organize them into categories and manage   
@@ -187,6 +181,9 @@ database model. So if you’re primarily querying databases, SQL will do the job
 GraphQL, in spite of its popularity as an API query language,   
 is not going to unseat SQL as the primary language for database access.
 
+[**_Short Clip Showcasing Basics of Hygraph_**](https://www.youtube.com/watch?v=7hnxVRcmN94)  
+[<img src="./public/developmentplatforms_graphcms-3.png" width="600">](https://www.youtube.com/watch?feature=player_embedded&v=7hnxVRcmN94)
+
 ## Summary
 As content management systems (CMS) become more and more popular,   
 developers have to decide which CMS to use for their projects.   
@@ -216,12 +213,6 @@ together with **GraphQL** gives you the opportunity to query for a specific endp
 these tools are great and easy to use, if you don't want to use a coupled CMS.    
 It is intuitive and flexible, and the most important: Karen can add her recipes whenever she wants!
 
-We made a little video clip to showcase the basics of Hygraph.    
-Click the image below to watch.
-
-[<img src="./public/developmentplatforms_graphcms-3.png" width="100%">](https://www.youtube.com/watch?v=7hnxVRcmN94)  
-**Source:** [_Video Clip Showcasing Hygraph_](https://www.youtube.com/watch?v=7hnxVRcmN94)
-
 ## References
 **Wikipedia:** [Nextjs](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjQ89zihaT9AhXitYsKHW6TAPkQmhN6BAhiEAI&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNext.js&usg=AOvVaw0B-Px8Rh7KearsjWzEctWw)  
 **Wikipedia:** [Reactjs](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi1x8zPhaT9AhXJwosKHQb6BhMQmhN6BAhkEAI&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FReact_(JavaScript_library)&usg=AOvVaw0YVCk9X7Sh1l7rf61OXIPW)  
@@ -237,4 +228,4 @@ Click the image below to watch.
 **Images:** [Pixabay](https://pixabay.com/no/photos/search/chicken%20fried%20rice/?manual_search=1)  
 **GitHub:** [Add local repo to GitHub using GitHub CLI](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github)  
 **Recipe:** [Chicken Fried Rice](https://www.delish.com/cooking/recipe-ideas/a25635966/chicken-fried-rice-recipe/)  
-**Article:** [The First Headless CMS Built Around GraphQL](https://www.cms-connected.com/News-Archive/September-2017/GraphCMS-The-First-Headless-Content-Management-System-Built-Around-GraphQL)   
+**Article:** [The First Headless CMS Built Around GraphQL](https://www.cms-connected.com/News-Archive/September-2017/GraphCMS-The-First-Headless-Content-Management-System-Built-Around-GraphQL)  
