@@ -170,8 +170,10 @@ flexible enough to meet the needs of today's users. And as developers, as far as
 WordPress will not give us the needed support for improving our coding skills.
 
 **Hygraph(GraphCMS)** gives the developer the ease of not having to hard-code their own back-end.   
-Hygraph was a great option for our project because it provided a solid, intuitive platform. It allowed   
-us to develop the website quickly and easily, and gave Karen the opportunity to add her recipes with ease.
+Hygraph was a great option for our project because it provided a solid, intuitive platform.   
+We utilized Hygraph's intuitive user interface which enabled us to quickly develop the website   
+with minimal effort. It allowed us to develop the website quickly and easily, and gave Karen   
+the opportunity to add her recipes with ease.
 
 Using **GraphQL** makes it easy to exchange data at a single endpoint. 
 In Hygraph, the `models` made in the `schema`-section could be compared to the `tables` in a database, and the `fields` would be the `columns`.  
