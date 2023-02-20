@@ -1,8 +1,3 @@
-**Website Hosting:** [Netlify](https://developmentplatforms.netlify.app/)  
-**Project Report:** [GitHub Markdown](https://github.com/siljeangelvik/development_platforms_ca/blob/main/report.md)    
-**GitHub Project Repo:** [Development Platforms CA](https://github.com/siljeangelvik/development_platforms_ca)  
-**Repository Fork:** [development-platforms](https://github.com/NoroffFEU/development-platforms)  
-**Report Format Template:** [GitHub Flavoured Markdown](https://github.com/siljeangelvik/development_platforms_ca/blob/main/template.md)
 
 ---
 Title: Karen's Recipes Case Study  
@@ -12,6 +7,12 @@ Sidebar: development-platforms
 Permalink: https://github.com/siljeangelvik/karens-recipes-case-study  
 Folder: karens-recipes-case-study
 ---
+
+**Website Hosting:** [Netlify](https://developmentplatforms.netlify.app/)  
+**Project Report:** [GitHub Markdown](https://github.com/siljeangelvik/development_platforms_ca/blob/main/report.md)    
+**GitHub Project Repo:** [Development Platforms CA](https://github.com/siljeangelvik/development_platforms_ca)  
+**Repository Fork:** [development-platforms](https://github.com/NoroffFEU/development-platforms)  
+**Report Format Template:** [GitHub Flavoured Markdown](https://github.com/siljeangelvik/development_platforms_ca/blob/main/template.md)
 
 ## Introduction
 Karen is looking to write and share her recipes with family, friends and other cooking enthusiasts.   
