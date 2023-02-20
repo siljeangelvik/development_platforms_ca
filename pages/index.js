@@ -1,6 +1,7 @@
+import {GraphQLClient} from "graphql-request";
 import Head from 'next/head';
 import { PostCard, Categories, PostWidget } from '../components';
-import { getPosts } from '../services';
+import { getPosts } from '../services/index';
 
 export default function Home({ posts }) {
     return (
